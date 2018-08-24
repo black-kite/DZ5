@@ -2,6 +2,7 @@
 import java.util.ArrayList;
 
 public class MainClass {
+
     public static final int CARS_COUNT = 12;
     public static volatile int WINNERS = 3;
     public static volatile int WIN = 0;
